@@ -66,6 +66,9 @@ $locale_arr = array (
         "T_REPORT_FILE" => "Informe del archivo",
         "T_NEW_REPORT" => "Nuevo informe",
         "T_SHOW_CONTENT" => "Mostrar contenido",
+        "T_EDITDISPLAYORDER" => "Ordenar Campos",
+	     "T_EDITGRID" => "Configurar Rejilla Dinamica",
+	     "T_EDITCUSTOMSOURCE" => "Código fuente personalizado",
         ),
         );
 ?>
